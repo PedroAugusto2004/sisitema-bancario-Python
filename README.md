@@ -7,7 +7,4 @@ O Projeto é um Sistema Bancário, onde o usuário pode:
 
 * Fazer Depositos
 * Fazer Saques
-* Fazer Transferências
 * Exibir Extrato Bancário
-* Exibir Saldo Atual
-* Exibir Dados da conta
