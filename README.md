@@ -3,6 +3,6 @@
 
 O Projeto é um Sistema Bancário, onde o usuário pode:
 
-*Fazer Depositos
+-Fazer Depositos
 *Fazer Saques
-*Exibir Extrato Bancário
++Exibir Extrato Bancário
